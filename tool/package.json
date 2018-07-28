@@ -1,0 +1,18 @@
+{
+  "name": "uk-outcode-geometry",
+  "version": "1.0.0",
+  "description": "Generate polygon boundaries for all UK outcode boundaries in KML and GeoJSON formats.",
+  "main": "tool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "miDrive",
+  "private": true,
+  "license": "CC BY-SA 3.0",
+  "dependencies": {
+    "superagent": "^3.8.3",
+    "togeojson": "^0.16.0",
+    "xmldom": "^0.1.27"
+  },
+  "devDependencies": {}
+}
